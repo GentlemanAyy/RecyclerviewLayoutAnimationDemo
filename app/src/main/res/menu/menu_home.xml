@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/layout_animation_simple" android:title="简易布局动画"/>
+    <item android:id="@+id/layout_animation_custom" android:title="自定义执行顺序"/>
+    <item android:id="@+id/layout_animation_xml" android:title="xml进入"/>
+    <item android:id="@+id/layout_animation_notify" android:title="刷新"/>
+</menu>
